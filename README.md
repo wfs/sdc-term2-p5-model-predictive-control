@@ -80,9 +80,9 @@ period, is fed into the Solve function, making all resulting calculations
 ### Successful Lap and PID Jerkiness versus MPC Smoothness
 * [1 lap success](https://www.youtube.com/watch?v=TGU2ytNAFns)
 * PID Jerkiness
-    * !(here)[./pid_controller_5_sec.gif]
+    * ![here](./pid_controller_5_sec.gif)
 * MPC Smoothness
-    * !(here_also)[./mpc_faster_5_sec.gif]
+    * ![here_also](./mpc_faster_5_sec.gif)
 ---
 
 ## Dependencies
